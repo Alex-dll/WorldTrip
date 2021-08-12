@@ -7,7 +7,8 @@
 ### Application Details
 
 > #### Desktop ![Behaviors](https://github.com/Alex-dll/WorldTrip/blob/master/public/DesktopWorld.gif?raw=true)
-> #### Mobile ![Behaviors](https://github.com/Alex-dll/WorldTrip/blob/master/public/mobile.gif?raw=true)
+> #### Mobile 
+> ![Behaviors](https://github.com/Alex-dll/WorldTrip/blob/master/public/mobile.gif?raw=true)
 
 
 
