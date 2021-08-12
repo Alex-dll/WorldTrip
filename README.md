@@ -44,7 +44,7 @@ Start the aplication
 > - API routs, static site generation, server side rendering, static and dynamic page routing and others resources.
 - Prismic at CMS.
 - ReactJS
-- Type Script
+- TypeScript
 - Chakra-ui
 - Swiper
 - Scss
