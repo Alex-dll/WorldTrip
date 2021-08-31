@@ -2,7 +2,7 @@
 
 # Welcome to Worldtrip
 
-- The place where you have access to the best posts by reactJS
+- This is the place to discover the best countries to travel
 
 
 ### Application Details
